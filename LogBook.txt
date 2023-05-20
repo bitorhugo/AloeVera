@@ -1,0 +1,5 @@
+Screenshot API with object location
+-- https://pyautogui.readthedocs.io/en/latest/screenshot.html
+
+
+    
